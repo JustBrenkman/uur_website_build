@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    - "export DEPLOYPATH=/home/uur11/beta.uur.byu.edu/"
+    - "/bin/cp index.html $DEPLOYPATH"
+    - "/bin/cp main.dart.js $DEPLOYPATH"
+    - "/bin/cp -R assets $DEPLOYPATH"
+    - "/bin/cp -R packages $DEPLOYPATH"

@@ -1,0 +1,9 @@
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://beta.uur.byu.edu/$1 [R,L]
+
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/uur11/api"
+PassengerBaseURI "/"
+PassengerPython "/home/uur11/virtualenv/api/3.6/bin/python3.6"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
