@@ -1,0 +1,9 @@
+{
+  "series": [
+    {
+      "name": "How to build an ROV",
+      "register_file": "tutorials/how_to_build_a_rov/register.json",
+      "category": "ROV, Build an ROV, Engineering"
+    }
+  ]
+}

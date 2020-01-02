@@ -1,0 +1,7 @@
+{
+  "seriesLocation": "tutorials/how_to_build_a_rov/",
+  "tutorials": [
+    "how_to_build_a_frame/tutorial.json",
+    "how_to_waterproof_motors/tutorial.json"
+  ]
+}

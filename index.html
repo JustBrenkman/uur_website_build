@@ -2,13 +2,73 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <link rel="icon" href="assets/logo/uur_logo.ico" type="image/x-icon">
+  <script src="assets/jquery-3.4.1.min.js"></script>
   <title>uur_website</title>
 </head>
 <body>
-  <script src="main.dart.js" type="application/javascript"></script>
+  <style>
+    .loader {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      flex-direction: column;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-transform: uppercase;
+      text-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+    }
+    body {
+      background: #eceff1;
+      margin: 0;
+      padding: 0;
+    }
+    @keyframes dots {
+      50% {
+        transform: translateY(-.2rem);
+      }
+      100% {
+        transform: translateY(0);
+      }
+    }
+    .d {
+      display: inline-block;
+      animation: dots 1.5s ease-out infinite;
+    }
+    .d-2 {
+      animation-delay: .5s;
+    }
+    .d-3 {
+      animation-delay: 1s;
+    }
+    .keep {
+      color: #000000;
+    }
+  </style>
+  <div class="loader">
+    <img src="assets/logo/UUR-Loading.png" alt="UUR logo">
+    <div>
+      <p></p>
+    </div>
+    <div class="keep">Loading<span class="d">.</span><span class="d d-2">.</span><span class="d d-3">.</span></div>
+  </div>
+
+
   <script src="https://www.gstatic.com/firebasejs/5.10.1/firebase-app.js"></script>
   <script src="https://www.gstatic.com/firebasejs/5.10.1/firebase-auth.js"></script>
   <script src="https://www.gstatic.com/firebasejs/5.10.1/firebase-database.js"></script>
   <script src="https://www.gstatic.com/firebasejs/5.10.1/firebase-firestore.js"></script>
+  <script src="main.dart.js" type="application/javascript"></script>
+
+  <script>
+    function fade() {
+      $(window).on("load", function () {
+        $(".loader").fadeOut("slow");
+      })
+    }
+  </script>
 </body>
 </html>
