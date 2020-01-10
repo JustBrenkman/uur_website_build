@@ -18,7 +18,7 @@ file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartl
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/unmodifiable_wrappers.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/utils.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/wrappers.dart
-file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/email_validator-1.0.0/lib/email_validator.dart
+file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/email_validator-1.0.4/lib/email_validator.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/enum_to_string-1.0.8/lib/camel_case_to_words.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/enum_to_string-1.0.8/lib/enum_to_string.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase-5.0.4/lib/firebase.dart
@@ -45,11 +45,11 @@ file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartl
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_platform_interface-1.0.3/lib/src/method_channel_google_sign_in.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_platform_interface-1.0.3/lib/src/types.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_platform_interface-1.0.3/lib/src/utils.dart
-file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.8.2+1/lib/google_sign_in_web.dart
-file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.8.2+1/lib/src/generated/gapi.dart
-file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.8.2+1/lib/src/generated/gapiauth2.dart
-file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.8.2+1/lib/src/load_gapi.dart
-file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.8.2+1/lib/src/utils.dart
+file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.8.3/lib/google_sign_in_web.dart
+file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.8.3/lib/src/generated/gapi.dart
+file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.8.3/lib/src/generated/gapiauth2.dart
+file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.8.3/lib/src/load_gapi.dart
+file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.8.3/lib/src/utils.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.1+1/lib/js.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.1+1/lib/js_util.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8/lib/meta.dart
@@ -67,8 +67,8 @@ file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartl
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.0.5/lib/src/core/hash.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.0.5/lib/src/core/optional.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
-file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.6/lib/html.dart
-file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.6/lib/src/_sdk/html.dart
+file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.12/lib/html.dart
+file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.12/lib/src/_sdk/html.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb2.dart
 file:///C:/Users/justb/Documents/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb3.dart
