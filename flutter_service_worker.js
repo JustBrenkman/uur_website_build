@@ -1,7 +1,32 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "/assets\AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
+  "/.git\config": "a47b977a1eb43f2ddbf67f831c55f3ea",
+"/.git\description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
+"/.git\HEAD": "4cf2d64e44205fe628ddd534e1151b58",
+"/.git\hooks\applypatch-msg.sample": "ce562e08d8098926a3862fc6e7905199",
+"/.git\hooks\commit-msg.sample": "579a3c1e12a1e74a98169175fb913012",
+"/.git\hooks\fsmonitor-watchman.sample": "db4d62db2039e4bec38baa7567788284",
+"/.git\hooks\post-update.sample": "2b7ea5cee3c49ff53d41e00785eb974c",
+"/.git\hooks\pre-applypatch.sample": "054f9ffb8bfe04a599751cc757226dda",
+"/.git\hooks\pre-commit.sample": "e4db8c12ee125a8a085907b757359ef0",
+"/.git\hooks\pre-merge-commit.sample": "39cb268e2a85d436b9eb6f47614c3cbc",
+"/.git\hooks\pre-push.sample": "3c5989301dd4b949dfa1f43738a22819",
+"/.git\hooks\pre-rebase.sample": "56e45f2bcbc8226d2b4200f7c46371bf",
+"/.git\hooks\pre-receive.sample": "2ad18ec82c20af7b5926ed9cea6aeedd",
+"/.git\hooks\prepare-commit-msg.sample": "2b5c047bdb474555e1787db32b2d2fc5",
+"/.git\hooks\update.sample": "517f14b9239689dff8bda3022ebd9004",
+"/.git\index": "9aa7030d91b0c13fa7de2a11c2c5b4bd",
+"/.git\info\exclude": "036208b4a1ab4a235d75c181e685e5a3",
+"/.git\logs\HEAD": "f9f2a94391179e61f7a0cc66385489cc",
+"/.git\logs\refs\heads\master": "f9f2a94391179e61f7a0cc66385489cc",
+"/.git\logs\refs\remotes\origin\HEAD": "f9f2a94391179e61f7a0cc66385489cc",
+"/.git\objects\pack\pack-e9925338c623c0e9e868c285487a47e46010d488.idx": "14b9f09ed6bc8215e2d1bbcf746298f9",
+"/.git\objects\pack\pack-e9925338c623c0e9e868c285487a47e46010d488.pack": "c502990cf04abb15e492b8bb6ecd2d04",
+"/.git\packed-refs": "3c61304cc6816d85479c192a71a596f5",
+"/.git\refs\heads\master": "6b18109e0ac45b291239b3dc0d8d208c",
+"/.git\refs\remotes\origin\HEAD": "73a00957034783b7b5c8294c54cd3e12",
+"/assets\AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
 "/assets\FontManifest.json": "a22612792744640e3637323419da6e22",
 "/assets\fonts\fa-brands-400.otf": "9c3434569329b7bd2ee9f0cf044f48b0",
 "/assets\fonts\fa-regular-400.otf": "66657c61f173e1d249f86de3f6aa9260",
@@ -242,8 +267,9 @@ const RESOURCES = {
 "/assets\web\assets\AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
 "/assets\web\assets\FontManifest.json": "a22612792744640e3637323419da6e22",
 "/assets\web\assets\jquery-3.4.1.min.js": "a6b6350ee94a3ea74595c065cbf58af0",
-"/index.html": "6a4056c3a190ed49e3619e129036ed16",
-"/main.dart.js": "a6361e2698bdaecc3033daf68c455a32"
+"/index.html": "66b0c3367d965b485958edee3f56425d",
+"/main.dart.js": "5f13608b9297aa88db32d68f067c2403",
+"/main.dart.js.deps": "3c2f9e6fc3cb803b5f19dc1f3675f98e"
 };
 
 self.addEventListener('activate', function (event) {
